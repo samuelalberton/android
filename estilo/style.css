@@ -48,7 +48,7 @@ header{
 }
 
 header > h1{
-    padding-bottom: 30px;
+    padding-bottom: 25px;
     font-family: var(--fonte-destaque);
     color: white;
     text-align: center;
